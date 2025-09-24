@@ -44,8 +44,7 @@ A powerful Telegram bot that plays music in **Voice Chats** using [Pyrogram](htt
 ---
 
 ## 📸 Demo
-![Bot Demo](https://user-images.githubusercontent.com/demo-bot.gif)
-
+![Bot Demo](https://camo.githubusercontent.com/526f64def8e9178e4a8a1ccc1a4194a324fd6182eeaa16d8245d8010cc888e24/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f6d757369632e706e67)
 ---
 
 ## ⭐ Star this Repo
